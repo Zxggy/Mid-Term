@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<!--
+Author: Eric Metcalf
+Version: 1.0
+Date: 04, Sept. 2017 
+Class: Cumbie Web Dev.-->
+
+<html>
+<head>
+<title> Agent Eric </title>
+<meta charset = "UTF-8">
+<link rel="stylesheet" type="text/css" href="SecretStyle.css"/>
+</head>
+
+<body style="background-color: #0000FF">
+	<h1 style ="border: solid black 3px"><font color="Orange"> The Story of an Undercover Agent </font></h1>
+	
+	<center><img src ="img/SpyStyle.jpg" alt="Secret Agent" height = "200px" width= "200px"/></center>
+	
+	<center><h2><p style ="bold"> The transition from a young man to a secret agent spy
+		is hard work.</p></h2></center>
+		
+	<center><a href="file:///H:/Hmewrk/Pages/FirstHtmlProject.html"><font color="Yellow"> Collaboration </font></a></center>
+	
+	
+	<center><a href="http://blackbearsecurity.com/"><font color="Yellow"> Link to Corporation </font></a></center>
+	
+	
+	<center><a href="https://unaportal.una.edu/group/control_panel/manage?p_p_id=2&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&doAsGroupId=10354&refererPlid=10359">
+		<font color="Yellow"> Link to secret Identity </font></a></center>
+		
+	<center><p><h3>The DocType declaration is an instruction to the web browser about what version of the markup language the page is written in.</h3></p></center>
+	
+	<p>You wanna know why inline style is horrible heres a link telling all the reasons why <a href="https://dzone.com/articles/why-inline-css-and-javascript-" </a>
+	<b><font color="Orange"> horrible inline </font></b></p>
+	
+	<a href="#top"><font color="Red"> back to top </font></a>
+	
+
+</body>
+
+</html>
