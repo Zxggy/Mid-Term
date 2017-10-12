@@ -1,0 +1,65 @@
+body {
+	background-color: #d3d3d3; 
+}
+#Screen {
+	display:flex;
+	align-content: center;
+	justify-content: center;
+	flex-direction: column;
+	align-items:center;
+	background-color: white;
+}
+
+#Front{
+	border: solid 1px #000; 
+	display:flex;
+	align-content: center;
+	justify-content: center;
+	flex-direction: column;
+	align-items:center;
+	background-color: white;
+}
+
+#Back {
+	height: 600px; 
+	width: 400px; 
+	display:flex;
+	align-content: center;
+	justify-content: center;
+	flex-direction: column;
+	align-items:center;
+	background-color: white;
+}
+
+#Top{
+	display:flex;
+	align-content: center;
+	justify-content: center;
+	flex-direction: column;
+	align-items:center;
+
+}
+#SignIn{
+	display:flex;
+	align-content: center;
+	justify-content: center;
+	flex-direction: column;
+	align-items:center;
+	border: bold;
+
+}
+
+#AppleId{
+	border: none;
+	
+
+}
+
+#Forgot{
+	display:flex;
+	align-content: center;
+	justify-content: center;
+	flex-direction: column;
+	align-items:center;
+	color: green;
+}
